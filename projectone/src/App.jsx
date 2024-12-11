@@ -8,7 +8,6 @@ import Icons from './Components/EbookWeb/Icons';
 import Details from './Components/EbookWeb/Details';
 import Download from './Components/EbookWeb/Download';
 import Social from './Components/EbookWeb/Social';
-// import Footer from './Components/EbookWeb/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/scss/bootstrap.scss';
 import '../src/scss/styles.scss';
