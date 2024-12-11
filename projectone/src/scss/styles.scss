@@ -1,0 +1,29 @@
+
+.navbar .btn-outline-light:hover {
+    color: var(--bs--dark);
+}
+
+
+.headerpng {
+    padding: 40px;
+}
+
+.download {
+    background: url(../assets/images/download-background.jpg) center center no-repeat;
+    background-size: cover;
+
+  
+    .image-container {
+      position: relative; 
+      z-index: 1; 
+      margin-top: -120px;
+      text-align: center; 
+    }
+
+    .text-container {
+      color: #fff;
+      padding: 20px;
+      z-index: 2; 
+    }
+  }
+  
